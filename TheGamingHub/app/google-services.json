@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493938860233",
+    "firebase_url": "https://the-gaming-hub-da222-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "the-gaming-hub-da222",
+    "storage_bucket": "the-gaming-hub-da222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493938860233:android:cf2e74aff303f48ade2d18",
+        "android_client_info": {
+          "package_name": "com.example.thegaminghub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493938860233-k0852fv1okobob01mnf40fpg4pv9eajr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thegaminghub",
+            "certificate_hash": "ddcf22d9a0c73896965db97a5d634b38512e2c4a"
+          }
+        },
+        {
+          "client_id": "493938860233-06l5adta8l8b0lmncfn8ovqhsj5u5snc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNghMhys-XNNtUB1t5y34r0wuvYW9uxnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493938860233-06l5adta8l8b0lmncfn8ovqhsj5u5snc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
