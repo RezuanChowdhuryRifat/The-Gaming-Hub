@@ -12,6 +12,20 @@
         android:theme="@style/Theme.TheGamingHub"
         tools:targetApi="31">
         <activity
+            android:name=".ReviewActivity"
+            android:exported="false"
+            android:label="@string/title_activity_review"
+            android:theme="@style/Theme.TheGamingHub.NoActionBar" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".ForgotPassword"
             android:exported="false" />
         <activity
